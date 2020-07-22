@@ -1,5 +1,6 @@
 # Cellular Automata and Conway's "Game of Life"
 
+started
 ---
 
 **NOTE: This is not a data science project.** If you're in the data
